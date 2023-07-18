@@ -1,6 +1,6 @@
 # Double Pendulum (Python)
 
-This repository contains a Python implementation of a double pendulum system. It uses the following equations, solved using the forward Euler's method, to model the physical system:
+This repository contains a Python implementation of a double pendulum system. It uses the following equations, solved using the forward Euler's method, to model the dynamical system:
 
 <img width="545" alt="image" src="https://github.com/Beniam-Kumela/double-pendulum-py/assets/106757076/e41cfee6-b0c3-4e7d-9b97-11deedb44a97">
 
